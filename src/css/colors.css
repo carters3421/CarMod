@@ -21,13 +21,13 @@ $motion-transparent: hsla(194, 100%, 50%, 0.35); /* 35% transparent version of m
 $motion-light-transparent: hsla(203, 100%, 39%, 0.15); /* 15% transparent version of motion-primary */
 
 /* opt-in theme overrides */
-$motion-primary-dark: #57039c; /*top bar color when in dark mode #009CCC*/
+$motion-primary-dark: #e80202; /*top bar color when in dark mode #009CCC*/
 $ui-primary-light: hsla(215, 100%, 95%, 1);
 $ui-secondary-light: hsla(215, 75%, 95%, 1);
 $ui-tertiary-light: hsla(215, 50%, 90%, 1);
 $text-primary-light: hsla(225, 15%, 40%, 1);
 
-$red-primary: hsla(288°, 100%, 50%, 1); /* #00c3ff */
+$red-primary: hsla(360°, 96%, 20%, 1); /* #00c3ff */
 $red-tertiary: hsla(286°, 94%, 37%, 1); /* #007bc7 */
 
 $sound-primary: hsla(300, 53%, 60%, 1); /* #CF63CF */

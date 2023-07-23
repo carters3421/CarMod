@@ -71,7 +71,7 @@ const handleClickAddonSettings = () => {
 
 const messages = defineMessages({
     defaultTitle: {
-        defaultMessage: 'A mod of PenguinMod',
+        defaultMessage: 'A mod of Snail IDE',
         description: 'Title of homepage',
         id: 'tw.guiDefaultTitle'
     }
@@ -116,8 +116,8 @@ const Footer = () => (
             <div className={styles.footerText}>
                 <FormattedMessage
                     // eslint-disable-next-line max-len
-                    defaultMessage="PenguinMod, Snail IDE, and TurboWarp are not affiliated with Scratch, the Scratch Team, or the Scratch Foundation."
-                    description="Disclaimer that PenguinMod, Snail IDE, and TurboWarp are not connected to Scratch"
+                    defaultMessage="PenguinMod, Snail IDE, CarMod, and TurboWarp are not affiliated with Scratch, the Scratch Team, or the Scratch Foundation."
+                    description="Disclaimer that PenguinMod, Snail IDE, CarMod, and TurboWarp are not connected to Scratch"
                     id="tw.footer.disclaimer"
                 />
             </div>
@@ -177,7 +177,7 @@ const Footer = () => (
                             id="tw.feedback"
                         />
                     </a>
-                    <a href="https://github.com/Snail-IDE/snail-ide.github.io/">
+                    <a href="https://github.com/carters3421/CarMod/">
                         <FormattedMessage
                             defaultMessage="Source Code"
                             description="Link to source code"
@@ -193,7 +193,7 @@ const Footer = () => (
                     </a>
                     <a href="https://scratch.mit.edu/studios/33532977/">
                         <FormattedMessage
-                            defaultMessage="Scratch Studio"
+                            defaultMessage="Snail IDE's Scratch Studio"
                             description="Link to privacy policy"
                             id="tw.snail-studio"
                         />
